@@ -30,5 +30,9 @@ def email_validator():
     else:
         print("Wrong email id alpha 1") 
 
-        
-email_validator()
+if __name__=="__main__":
+    
+    email_validator()
+
+# this email validator is working fine but i still have a way :)
+
